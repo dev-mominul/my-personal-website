@@ -1,6 +1,6 @@
 # My Personal Website
 
-A clean, minimal website designed as a personal portfolio and learning project.
+A modern, lightweight personal website built with HTML5 and CSS3, used to practice Git workflow and version control.
 
 ## About
 
