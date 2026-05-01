@@ -2,15 +2,98 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>My Personal Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mominul Islam — Personal Website</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-<nav>
-    <a href="index.html">Home</a>
-    <a href="about.html">About</a>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <a href="index.html" class="nav-logo">MI<span class="logo-dot">.</span></a>
+    <div class="nav-links">
+      <a href="index.html" class="nav-link active">Home</a>
+      <a href="about.html" class="nav-link">About</a>
+    </div>
   </nav>
-  <h1>Welcome</h1>
-  <p>This is my personal website.</p>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-badge">CSE216 — Software Project II</div>
+    <h1 class="hero-title">
+      Hi, I'm <span class="highlight">Mominul Islam</span>
+    </h1>
+    <p class="hero-subtitle">
+      A CSE student at Daffodil International University exploring web development,
+      software engineering, and version control through hands-on projects.
+    </p>
+    <div class="hero-actions">
+      <a href="about.html" class="btn btn-primary">About Me</a>
+      <a href="https://github.com/dev-mominul" class="btn btn-outline" target="_blank" rel="noopener">GitHub &nearr;</a>
+    </div>
+  </section>
+
+  <!-- Info Cards -->
+  <section class="cards">
+    <div class="card">
+      <div class="card-icon">&#9997;</div>
+      <h3 class="card-title">Project Overview</h3>
+      <p class="card-text">
+        A personal website built with semantic HTML5 and clean CSS3 to practice
+        real-world Git workflow — branching, merging, conflict resolution, and tagging.
+      </p>
+    </div>
+    <div class="card">
+      <div class="card-icon">&#128736;</div>
+      <h3 class="card-title">Tech Stack</h3>
+      <p class="card-text">
+        Built from scratch using only HTML, CSS, and vanilla JavaScript.
+        No frameworks — keeping things simple and focused on fundamentals.
+      </p>
+    </div>
+    <div class="card">
+      <div class="card-icon">&#128200;</div>
+      <h3 class="card-title">Git Skills</h3>
+      <p class="card-text">
+        Practiced branching strategies, merge conflicts, safe undo with revert,
+        recovery with reflog, and semantic versioning with tags.
+      </p>
+    </div>
+  </section>
+
+  <!-- Course Info Strip -->
+  <section class="course-strip">
+    <div class="strip-content">
+      <div class="strip-item">
+        <span class="strip-label">Student ID</span>
+        <span class="strip-value">192-15-13156</span>
+      </div>
+      <div class="strip-divider"></div>
+      <div class="strip-item">
+        <span class="strip-label">Course</span>
+        <span class="strip-value">CSE216</span>
+      </div>
+      <div class="strip-divider"></div>
+      <div class="strip-item">
+        <span class="strip-label">Instructor</span>
+        <span class="strip-value">Mr. Tanvirul Islam</span>
+      </div>
+      <div class="strip-divider"></div>
+      <div class="strip-item">
+        <span class="strip-label">University</span>
+        <span class="strip-value">Daffodil International University</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2026 Mominul Islam &middot; CSE Department, Daffodil International University</p>
+  </footer>
+
+  <script src="js/main.js"></script>
 </body>
 </html>
