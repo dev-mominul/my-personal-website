@@ -8,6 +8,13 @@ This is a small static website that introduces me, lists my skills, and shows
 how to contact me. The project is intentionally small so the focus stays on
 practicing a real Git workflow (branches, merges, conflicts, tags, and recovery).
 
+## Features
+
+- Clean, minimal design
+- Responsive layout (works on phones and desktops)
+- Fast loading — no frameworks, just HTML and CSS
+- Easy to customize
+
 ## How to Run
 
 No build tools are required. Just open the website in any browser:
