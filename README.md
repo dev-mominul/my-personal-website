@@ -1,6 +1,6 @@
 # My Personal Website
 
-A lightweight static website demonstrating Git workflow practices and version control.
+A polished personal portfolio showcasing my web development journey.
 
 ## About
 
