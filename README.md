@@ -1,6 +1,6 @@
 # My Personal Website
 
-A simple personal website built with HTML and CSS as part of a Git practice project.
+A modern, responsive personal portfolio website built with semantic HTML5 and clean CSS3.
 
 ## About
 
