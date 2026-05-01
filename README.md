@@ -1,6 +1,6 @@
 # My Personal Website
 
-A polished personal portfolio showcasing my web development journey.
+A hands-on project built to practice Git workflow and version control skills.
 
 ## About
 
