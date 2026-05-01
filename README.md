@@ -1,6 +1,6 @@
 # My Personal Website
 
-A modern, responsive personal portfolio website built with semantic HTML5 and clean CSS3.
+A lightweight static website demonstrating Git workflow practices and version control.
 
 ## About
 
