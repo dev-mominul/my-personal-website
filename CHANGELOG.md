@@ -3,4 +3,5 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-- Work in progress.
+- Added Features section to README.
+- Documented project structure.
