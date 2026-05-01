@@ -1,6 +1,6 @@
 # My Personal Website
 
-A polished personal portfolio showcasing my web development journey.
+A clean, minimal website designed as a personal portfolio and learning project.
 
 ## About
 
